@@ -1,0 +1,118 @@
+{
+  "general": {
+    "seed": 6512924
+  },
+  "data": {
+    "general": {
+      "split": {
+        "train": 90,
+        "test": 0,
+        "val": 10
+      },
+      "shard_length": 512,
+      "samples_per_cpu": 32,
+      "batch_buffer_size": 8192,
+      "shuffle_buffer_size": 8192,
+      "prefetch_factor": 2
+    },
+    "music": {
+      "consecutive_bars": 8,
+      "consecutive_bars_stride": 4,
+      "accept_unknown_tracks": false,
+      "sanitisation_accept_exact_unknown_tracks": false,
+      "maximum_percentage_empty_bars": 5,
+      "chunk_size": 256,
+      "summary_token": 4,
+      "structure_segments": [
+        -32,
+        -24,
+        -16,
+        -12,
+        -8,
+        -4,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        4,
+        8,
+        12,
+        16,
+        24,
+        32
+      ],
+      "scale_factors": [
+        1
+      ],
+      "variables": {
+        "track_names": {
+          "sngl": "Piano",
+          "lead": "Piano Lead",
+          "acmp": "Piano Acmp",
+          "meta": "Meta",
+          "sign": "Signature",
+          "unkn": "Unknown"
+        },
+        "valid_track_names": [
+          [
+            "right",
+            "left",
+            "phrase"
+          ],
+          [
+            "RH",
+            "LH",
+            "word"
+          ],
+          [
+            "up",
+            "down",
+            "phrase"
+          ],
+          [
+            "R",
+            "L",
+            "word"
+          ],
+          [
+            "upper",
+            "lower",
+            "phrase"
+          ],
+          [
+            "pianoUp",
+            "pianoDown",
+            "phrase"
+          ],
+          [
+            "treble",
+            "bass",
+            "phrase"
+          ],
+          [
+            "one",
+            "two",
+            "phrase"
+          ],
+          [
+            "rechte",
+            "linke",
+            "phrase"
+          ],
+          [
+            "rhStaff",
+            "lhStaff",
+            "phrase"
+          ]
+        ]
+      }
+    }
+  },
+  "train": {
+    "log_frequency": 100,
+    "checkpoints_to_keep": -1,
+    "reserve_memory": false,
+    "timeout": 300
+  }
+}

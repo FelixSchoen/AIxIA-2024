@@ -1,0 +1,57 @@
+{
+  "general": {
+    "model": "pytorch_hacked_single_stream_transformer",
+    "dataset": "ms_badura_single",
+    "tokeniser": "relative_notelike_tokeniser"
+  },
+  "hyperparameters": {
+    "d_model": 256,
+    "d_att": 256,
+    "d_ff": 1024,
+    "n_heads": 4,
+    "n_layers": 4,
+    "dropout_rate": 0.15,
+    "vocab_size": {
+      "target": [
+        220
+      ]
+    },
+    "max_len": 4096
+  },
+  "training": {
+    "epochs": 64,
+    "checkpoints_per_epoch": 4,
+    "batch_size": 2,
+    "accumulation_steps": 8,
+    "clip_max_norm": 1.0,
+    "label_smoothing_epsilon": 0.1,
+    "optimiser_params": {
+      "betas": [
+        0.9,
+        0.98
+      ],
+      "eps": 1e-9,
+      "weight_decay": 1e-1
+    },
+    "lr_params": {
+      "warmup_steps": 8000,
+      "factor": 2
+    },
+    "invalid_tokens": [
+    ]
+  },
+  "inference": {
+    "max_len": 1024,
+    "temperature": 1.0,
+    "constrainer": {
+      "min_len": 1024
+    },
+    "approach": {
+      "beam_search": {
+        "beam_size": 4,
+        "batch_size": 2,
+        "normalisation_coefficient": 0.6
+      }
+    }
+  }
+}

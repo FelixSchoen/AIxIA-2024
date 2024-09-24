@@ -1,0 +1,45 @@
+[project]
+name = "paul3"
+version = "0.2"
+authors = [{ name = "Felix Schön", email = "schoen@kr.tuwien.ac.at" }]
+requires-python = ">= 3.11"
+dependencies = [
+    "torch",
+    "torcheval",
+    "scoda>=2.1b7",
+    "numpy",
+    "triton",
+    "webdataset",
+    "tqdm",
+    "tensorboard",
+    "psutil"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+    "pytest-xdist"
+]
+analysis = [
+    "scipy"
+]
+music = [
+    "mido"
+]
+text = [
+    #    Install Cython via `pip install Cython`
+    #    Install Python-dev via `sudo apt install python3.11-dev`
+    #    Install Build Essentials via `sudo apt install build-essential`
+    "Cython",
+    "youtokentome",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+"*" = ["*.json"]
+
+[tool.setuptools]
+py-modules = ["paul3"]

@@ -1,0 +1,44 @@
+{
+  "ms_badura_dual": {
+    "dataset_type": "music",
+    "name": "Badura Dual",
+    "source_class": "dual",
+    "dataset_class": "dual",
+    "identifier": "ms_badura_dual"
+  },
+  "ms_badura_single": {
+    "dataset_type": "music",
+    "name": "Badura Single",
+    "source_class": "dual",
+    "dataset_class": "single",
+    "identifier": "ms_badura_single"
+  },
+  "ms_maestro": {
+    "dataset_type": "music",
+    "name": "MAESTRO",
+    "source_class": "single",
+    "dataset_class": "single",
+    "identifier": "ms_maestro"
+  },
+  "ms_debug": {
+    "dataset_type": "music",
+    "name": "Debug",
+    "source_class": "dual",
+    "dataset_class": "dual",
+    "identifier": "ms_debug"
+  },
+  "ms_debug_single": {
+    "dataset_type": "music",
+    "name": "Debug Single",
+    "source_class": "dual",
+    "dataset_class": "single",
+    "identifier": "ms_debug_single"
+  },
+  "tx_tiny_shakespeare": {
+    "dataset_type": "text",
+    "name": "Tiny Shakespeare",
+    "source_class": "single",
+    "dataset_class": "single",
+    "identifier": "tx_tiny_shakespeare"
+  }
+}
