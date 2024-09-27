@@ -1,0 +1,3811 @@
+{
+    "survey_submissions": {
+        "11": {
+            "survee_uuid": "c3df1dbd-3f26-49b0-80dc-4ad13b6982d1",
+            "votes": {
+                "143": {
+                    "question": {
+                        "question_subjects": {
+                            "180": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_13_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "490": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_18_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 298
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 490,
+                        "answer_boolean": null,
+                        "answer_id": 143
+                    }
+                },
+                "144": {
+                    "question": {
+                        "question_subjects": {
+                            "325": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_14_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "182": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_24_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 294
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 325,
+                        "answer_boolean": null,
+                        "answer_id": 144
+                    }
+                },
+                "136": {
+                    "question": {
+                        "question_subjects": {
+                            "367": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "291": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 292
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 367,
+                        "answer_boolean": null,
+                        "answer_id": 136
+                    }
+                },
+                "137": {
+                    "question": {
+                        "question_subjects": {
+                            "214": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_16_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "30": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_42_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 297
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 214,
+                        "answer_boolean": null,
+                        "answer_id": 137
+                    }
+                },
+                "138": {
+                    "question": {
+                        "question_subjects": {
+                            "421": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_34_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "102": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_12_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 295
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 421,
+                        "answer_boolean": null,
+                        "answer_id": 138
+                    }
+                },
+                "139": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 1,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 139
+                    }
+                },
+                "140": {
+                    "question": {
+                        "question_subjects": {
+                            "553": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_31_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "303": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 296
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 303,
+                        "answer_boolean": null,
+                        "answer_id": 140
+                    }
+                },
+                "141": {
+                    "question": {
+                        "question_subjects": {
+                            "89": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_26_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "413": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_30_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 293
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 89,
+                        "answer_boolean": null,
+                        "answer_id": 141
+                    }
+                },
+                "142": {
+                    "question": {
+                        "question_subjects": {
+                            "265": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_59_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "219": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_19_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 299
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 265,
+                        "answer_boolean": null,
+                        "answer_id": 142
+                    }
+                }
+            }
+        },
+        "12": {
+            "survee_uuid": "291b4242-3850-41e9-8643-21f45142e77c",
+            "votes": {
+                "154": {
+                    "question": {
+                        "question_subjects": {
+                            "126": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_55_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "219": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_19_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 315
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 219,
+                        "answer_boolean": null,
+                        "answer_id": 154
+                    }
+                },
+                "145": {
+                    "question": {
+                        "question_subjects": {
+                            "168": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_05_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "546": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_17_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 312
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 546,
+                        "answer_boolean": null,
+                        "answer_id": 145
+                    }
+                },
+                "146": {
+                    "question": {
+                        "question_subjects": {
+                            "487": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_56_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "428": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_10_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 309
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 487,
+                        "answer_boolean": null,
+                        "answer_id": 146
+                    }
+                },
+                "147": {
+                    "question": {
+                        "question_subjects": {
+                            "132": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_25_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "243": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_15_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 311
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 243,
+                        "answer_boolean": null,
+                        "answer_id": 147
+                    }
+                },
+                "148": {
+                    "question": {
+                        "question_subjects": {
+                            "416": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_63_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "537": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_26_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 313
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 537,
+                        "answer_boolean": null,
+                        "answer_id": 148
+                    }
+                },
+                "149": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 0,
+                        "question_id": 4
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 149
+                    }
+                },
+                "150": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 150
+                    }
+                },
+                "151": {
+                    "question": {
+                        "question_subjects": {
+                            "56": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_00_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "268": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_47_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 314
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 56,
+                        "answer_boolean": null,
+                        "answer_id": 151
+                    }
+                },
+                "152": {
+                    "question": {
+                        "question_subjects": {
+                            "125": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_01_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "32": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_63_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 310
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 32,
+                        "answer_boolean": null,
+                        "answer_id": 152
+                    }
+                },
+                "153": {
+                    "question": {
+                        "question_subjects": {
+                            "378": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_39_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "272": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_09_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 308
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 272,
+                        "answer_boolean": null,
+                        "answer_id": 153
+                    }
+                }
+            }
+        },
+        "13": {
+            "survee_uuid": "90e492b2-3e2e-4f70-82df-c93e08af43e8",
+            "votes": {
+                "155": {
+                    "question": {
+                        "question_subjects": {
+                            "134": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_43_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "20": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_33_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 328
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 134,
+                        "answer_boolean": null,
+                        "answer_id": 155
+                    }
+                },
+                "156": {
+                    "question": {
+                        "question_subjects": {
+                            "167": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_56_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "54": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_24_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 324
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 54,
+                        "answer_boolean": null,
+                        "answer_id": 156
+                    }
+                },
+                "157": {
+                    "question": {
+                        "question_subjects": {
+                            "565": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_07_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "290": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_17_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 327
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 565,
+                        "answer_boolean": null,
+                        "answer_id": 157
+                    }
+                },
+                "158": {
+                    "question": {
+                        "question_subjects": {
+                            "415": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_22_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "260": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_25_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 325
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 260,
+                        "answer_boolean": null,
+                        "answer_id": 158
+                    }
+                },
+                "159": {
+                    "question": {
+                        "question_subjects": {
+                            "256": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_02_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "270": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_27_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 330
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 270,
+                        "answer_boolean": null,
+                        "answer_id": 159
+                    }
+                },
+                "160": {
+                    "question": {
+                        "question_subjects": {
+                            "495": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "327": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_20_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 329
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 495,
+                        "answer_boolean": null,
+                        "answer_id": 160
+                    }
+                },
+                "161": {
+                    "question": {
+                        "question_subjects": {
+                            "440": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_00_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "93": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_30_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 326
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 93,
+                        "answer_boolean": null,
+                        "answer_id": 161
+                    }
+                },
+                "162": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 1,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 162
+                    }
+                },
+                "163": {
+                    "question": {
+                        "question_subjects": {
+                            "330": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_58_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "437": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_07_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 331
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 437,
+                        "answer_boolean": null,
+                        "answer_id": 163
+                    }
+                }
+            }
+        },
+        "14": {
+            "survee_uuid": "924a2452-ab68-44d4-ab16-0a3b1fd17ca8",
+            "votes": {
+                "165": {
+                    "question": {
+                        "question_subjects": {
+                            "38": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_12_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "215": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_32_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 378
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 38,
+                        "answer_boolean": null,
+                        "answer_id": 165
+                    }
+                },
+                "166": {
+                    "question": {
+                        "question_subjects": {
+                            "399": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_53_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "521": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_59_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 379
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 521,
+                        "answer_boolean": null,
+                        "answer_id": 166
+                    }
+                },
+                "167": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 0,
+                        "question_id": 4
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 167
+                    }
+                },
+                "168": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 168
+                    }
+                },
+                "169": {
+                    "question": {
+                        "question_subjects": {
+                            "332": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_47_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "171": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_50_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 372
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 171,
+                        "answer_boolean": null,
+                        "answer_id": 169
+                    }
+                },
+                "170": {
+                    "question": {
+                        "question_subjects": {
+                            "227": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "503": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_41_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 375
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 227,
+                        "answer_boolean": null,
+                        "answer_id": 170
+                    }
+                },
+                "171": {
+                    "question": {
+                        "question_subjects": {
+                            "372": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_13_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "153": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_26_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 377
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 153,
+                        "answer_boolean": null,
+                        "answer_id": 171
+                    }
+                },
+                "172": {
+                    "question": {
+                        "question_subjects": {
+                            "14": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_27_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "538": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_45_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 374
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 538,
+                        "answer_boolean": null,
+                        "answer_id": 172
+                    }
+                },
+                "173": {
+                    "question": {
+                        "question_subjects": {
+                            "122": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_39_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "273": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_52_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 376
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 273,
+                        "answer_boolean": null,
+                        "answer_id": 173
+                    }
+                },
+                "164": {
+                    "question": {
+                        "question_subjects": {
+                            "313": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_37_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "418": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_17_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 373
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 313,
+                        "answer_boolean": null,
+                        "answer_id": 164
+                    }
+                }
+            }
+        },
+        "15": {
+            "survee_uuid": "ddade192-9d41-45a7-88e0-de42b4d44ff4",
+            "votes": {
+                "176": {
+                    "question": {
+                        "question_subjects": {
+                            "147": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_49_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "406": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_16_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 352
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 406,
+                        "answer_boolean": null,
+                        "answer_id": 176
+                    }
+                },
+                "177": {
+                    "question": {
+                        "question_subjects": {
+                            "221": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_30_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "562": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_28_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 349
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 221,
+                        "answer_boolean": null,
+                        "answer_id": 177
+                    }
+                },
+                "178": {
+                    "question": {
+                        "question_subjects": {
+                            "2": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_54_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "325": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_14_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 348
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 2,
+                        "answer_boolean": null,
+                        "answer_id": 178
+                    }
+                },
+                "179": {
+                    "question": {
+                        "question_subjects": {
+                            "333": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_35_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "15": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_53_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 353
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 15,
+                        "answer_boolean": null,
+                        "answer_id": 179
+                    }
+                },
+                "180": {
+                    "question": {
+                        "question_subjects": {
+                            "99": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "283": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_19_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 351
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 99,
+                        "answer_boolean": null,
+                        "answer_id": 180
+                    }
+                },
+                "181": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 1,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 181
+                    }
+                },
+                "182": {
+                    "question": {
+                        "question_subjects": {
+                            "66": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_54_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "548": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_06_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 355
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 548,
+                        "answer_boolean": null,
+                        "answer_id": 182
+                    }
+                },
+                "174": {
+                    "question": {
+                        "question_subjects": {
+                            "457": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_59_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "373": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_07_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 350
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 457,
+                        "answer_boolean": null,
+                        "answer_id": 174
+                    }
+                },
+                "175": {
+                    "question": {
+                        "question_subjects": {
+                            "193": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_51_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "294": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_12_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 354
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 294,
+                        "answer_boolean": null,
+                        "answer_id": 175
+                    }
+                }
+            }
+        },
+        "16": {
+            "survee_uuid": "ddade192-9d41-45a7-88e0-de42b4d44ff4",
+            "votes": {
+                "187": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 0,
+                        "question_id": 4
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 187
+                    }
+                },
+                "188": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 188
+                    }
+                },
+                "189": {
+                    "question": {
+                        "question_subjects": {
+                            "421": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_34_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "234": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_18_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 402
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 421,
+                        "answer_boolean": null,
+                        "answer_id": 189
+                    }
+                },
+                "190": {
+                    "question": {
+                        "question_subjects": {
+                            "102": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_12_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "345": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_26_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 396
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 345,
+                        "answer_boolean": null,
+                        "answer_id": 190
+                    }
+                },
+                "191": {
+                    "question": {
+                        "question_subjects": {
+                            "22": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_16_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "285": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_30_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 398
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 22,
+                        "answer_boolean": null,
+                        "answer_id": 191
+                    }
+                },
+                "192": {
+                    "question": {
+                        "question_subjects": {
+                            "389": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_14_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "508": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_62_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 399
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 389,
+                        "answer_boolean": null,
+                        "answer_id": 192
+                    }
+                },
+                "183": {
+                    "question": {
+                        "question_subjects": {
+                            "374": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_24_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "527": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_53_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 401
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 527,
+                        "answer_boolean": null,
+                        "answer_id": 183
+                    }
+                },
+                "184": {
+                    "question": {
+                        "question_subjects": {
+                            "92": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_04_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "161": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_40_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 400
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 161,
+                        "answer_boolean": null,
+                        "answer_id": 184
+                    }
+                },
+                "185": {
+                    "question": {
+                        "question_subjects": {
+                            "456": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_44_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "514": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_54_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 397
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 456,
+                        "answer_boolean": null,
+                        "answer_id": 185
+                    }
+                },
+                "186": {
+                    "question": {
+                        "question_subjects": {
+                            "522": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_58_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "350": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_42_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 403
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 350,
+                        "answer_boolean": null,
+                        "answer_id": 186
+                    }
+                }
+            }
+        },
+        "17": {
+            "survee_uuid": "0f50db2d-b186-4b73-a56e-e2b043de50cd",
+            "votes": {
+                "198": {
+                    "question": {
+                        "question_subjects": {
+                            "484": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_06_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "299": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_50_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 425
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 299,
+                        "answer_boolean": null,
+                        "answer_id": 198
+                    }
+                },
+                "199": {
+                    "question": {
+                        "question_subjects": {
+                            "237": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_08_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "94": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_42_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 426
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 237,
+                        "answer_boolean": null,
+                        "answer_id": 199
+                    }
+                },
+                "200": {
+                    "question": {
+                        "question_subjects": {
+                            "442": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_39_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "483": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 424
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 483,
+                        "answer_boolean": null,
+                        "answer_id": 200
+                    }
+                },
+                "201": {
+                    "question": {
+                        "question_subjects": {
+                            "222": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_42_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "124": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_62_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 423
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 222,
+                        "answer_boolean": null,
+                        "answer_id": 201
+                    }
+                },
+                "193": {
+                    "question": {
+                        "question_subjects": {
+                            "37": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_34_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "259": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_29_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 421
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 259,
+                        "answer_boolean": null,
+                        "answer_id": 193
+                    }
+                },
+                "194": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 194
+                    }
+                },
+                "195": {
+                    "question": {
+                        "question_subjects": {
+                            "532": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_33_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "379": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_60_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 422
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 532,
+                        "answer_boolean": null,
+                        "answer_id": 195
+                    }
+                },
+                "196": {
+                    "question": {
+                        "question_subjects": {
+                            "348": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_04_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "160": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_63_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 420
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 160,
+                        "answer_boolean": null,
+                        "answer_id": 196
+                    }
+                },
+                "197": {
+                    "question": {
+                        "question_subjects": {
+                            "525": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_35_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "62": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_55_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 427
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 62,
+                        "answer_boolean": null,
+                        "answer_id": 197
+                    }
+                }
+            }
+        },
+        "1": {
+            "survee_uuid": "3f385fb7-18a1-4f51-b02c-205eea78b53e",
+            "votes": {
+                "1": {
+                    "question": {
+                        "question_subjects": {
+                            "575": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_36_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "359": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_56_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 5
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 359,
+                        "answer_boolean": null,
+                        "answer_id": 1
+                    }
+                },
+                "2": {
+                    "question": {
+                        "question_subjects": {
+                            "254": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_55_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "127": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_36_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 2
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 127,
+                        "answer_boolean": null,
+                        "answer_id": 2
+                    }
+                },
+                "3": {
+                    "question": {
+                        "question_subjects": {
+                            "37": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_34_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "175": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 10
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 175,
+                        "answer_boolean": null,
+                        "answer_id": 3
+                    }
+                },
+                "4": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 4
+                    }
+                },
+                "5": {
+                    "question": {
+                        "question_subjects": {
+                            "404": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_33_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "317": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_01_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 8
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 404,
+                        "answer_boolean": null,
+                        "answer_id": 5
+                    }
+                },
+                "6": {
+                    "question": {
+                        "question_subjects": {
+                            "267": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_38_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "448": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_02_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 3
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 267,
+                        "answer_boolean": null,
+                        "answer_id": 6
+                    }
+                },
+                "7": {
+                    "question": {
+                        "question_subjects": {
+                            "507": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_60_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "52": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_13_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 1
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 52,
+                        "answer_boolean": null,
+                        "answer_id": 7
+                    }
+                },
+                "8": {
+                    "question": {
+                        "question_subjects": {
+                            "353": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_40_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "516": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_25_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 9
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 353,
+                        "answer_boolean": null,
+                        "answer_id": 8
+                    }
+                },
+                "9": {
+                    "question": {
+                        "question_subjects": {
+                            "110": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_48_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "155": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_19_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 6
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 155,
+                        "answer_boolean": null,
+                        "answer_id": 9
+                    }
+                }
+            }
+        },
+        "2": {
+            "survee_uuid": "3f385fb7-18a1-4f51-b02c-205eea78b53e",
+            "votes": {
+                "55": {
+                    "question": {
+                        "question_subjects": {
+                            "503": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_41_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "129": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_51_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 63
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 503,
+                        "answer_boolean": null,
+                        "answer_id": 55
+                    }
+                },
+                "56": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 0,
+                        "question_id": 4
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 56
+                    }
+                },
+                "57": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 57
+                    }
+                },
+                "58": {
+                    "question": {
+                        "question_subjects": {
+                            "573": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_01_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "58": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_39_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 67
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 573,
+                        "answer_boolean": null,
+                        "answer_id": 58
+                    }
+                },
+                "59": {
+                    "question": {
+                        "question_subjects": {
+                            "495": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "66": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_54_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 60
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 495,
+                        "answer_boolean": null,
+                        "answer_id": 59
+                    }
+                },
+                "60": {
+                    "question": {
+                        "question_subjects": {
+                            "561": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_11_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "215": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_32_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 62
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 215,
+                        "answer_boolean": null,
+                        "answer_id": 60
+                    }
+                },
+                "61": {
+                    "question": {
+                        "question_subjects": {
+                            "238": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_48_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "130": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_54_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 66
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 130,
+                        "answer_boolean": null,
+                        "answer_id": 61
+                    }
+                },
+                "52": {
+                    "question": {
+                        "question_subjects": {
+                            "106": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_18_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "290": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_17_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 65
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 290,
+                        "answer_boolean": null,
+                        "answer_id": 52
+                    }
+                },
+                "53": {
+                    "question": {
+                        "question_subjects": {
+                            "403": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_49_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "381": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_01_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 64
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 381,
+                        "answer_boolean": null,
+                        "answer_id": 53
+                    }
+                },
+                "54": {
+                    "question": {
+                        "question_subjects": {
+                            "275": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_49_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "28": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_04_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 61
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 28,
+                        "answer_boolean": null,
+                        "answer_id": 54
+                    }
+                }
+            }
+        },
+        "3": {
+            "survee_uuid": "dc871e66-7262-4f3e-aeff-b4f656281912",
+            "votes": {
+                "66": {
+                    "question": {
+                        "question_subjects": {
+                            "149": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_21_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "549": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_34_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 88
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 549,
+                        "answer_boolean": null,
+                        "answer_id": 66
+                    }
+                },
+                "67": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 67
+                    }
+                },
+                "68": {
+                    "question": {
+                        "question_subjects": {
+                            "496": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_61_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "437": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_07_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 89
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 496,
+                        "answer_boolean": null,
+                        "answer_id": 68
+                    }
+                },
+                "69": {
+                    "question": {
+                        "question_subjects": {
+                            "480": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_63_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "571": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_60_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 84
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 571,
+                        "answer_boolean": null,
+                        "answer_id": 69
+                    }
+                },
+                "70": {
+                    "question": {
+                        "question_subjects": {
+                            "49": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_11_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "371": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_15_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 91
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 371,
+                        "answer_boolean": null,
+                        "answer_id": 70
+                    }
+                },
+                "62": {
+                    "question": {
+                        "question_subjects": {
+                            "431": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "159": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_22_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 85
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 431,
+                        "answer_boolean": null,
+                        "answer_id": 62
+                    }
+                },
+                "63": {
+                    "question": {
+                        "question_subjects": {
+                            "380": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_62_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "209": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_52_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 86
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 209,
+                        "answer_boolean": null,
+                        "answer_id": 63
+                    }
+                },
+                "64": {
+                    "question": {
+                        "question_subjects": {
+                            "122": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_39_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "312": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_00_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 87
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 122,
+                        "answer_boolean": null,
+                        "answer_id": 64
+                    }
+                },
+                "65": {
+                    "question": {
+                        "question_subjects": {
+                            "255": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_36_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "71": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_20_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 90
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 255,
+                        "answer_boolean": null,
+                        "answer_id": 65
+                    }
+                }
+            }
+        },
+        "4": {
+            "survee_uuid": "4d012e8a-75fd-4123-982c-42c446958110",
+            "votes": {
+                "77": {
+                    "question": {
+                        "question_subjects": {
+                            "187": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_60_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "417": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_40_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 77
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 417,
+                        "answer_boolean": null,
+                        "answer_id": 77
+                    }
+                },
+                "78": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 1,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 78
+                    }
+                },
+                "79": {
+                    "question": {
+                        "question_subjects": {
+                            "3": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_29_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "257": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_51_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 83
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 3,
+                        "answer_boolean": null,
+                        "answer_id": 79
+                    }
+                },
+                "71": {
+                    "question": {
+                        "question_subjects": {
+                            "263": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_20_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "142": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_27_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 78
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 263,
+                        "answer_boolean": null,
+                        "answer_id": 71
+                    }
+                },
+                "72": {
+                    "question": {
+                        "question_subjects": {
+                            "239": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "318": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_55_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 81
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 318,
+                        "answer_boolean": null,
+                        "answer_id": 72
+                    }
+                },
+                "73": {
+                    "question": {
+                        "question_subjects": {
+                            "567": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_41_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "194": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_54_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 76
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 567,
+                        "answer_boolean": null,
+                        "answer_id": 73
+                    }
+                },
+                "74": {
+                    "question": {
+                        "question_subjects": {
+                            "574": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_55_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "378": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_39_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 79
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 378,
+                        "answer_boolean": null,
+                        "answer_id": 74
+                    }
+                },
+                "75": {
+                    "question": {
+                        "question_subjects": {
+                            "47": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_03_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "124": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_62_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 80
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 47,
+                        "answer_boolean": null,
+                        "answer_id": 75
+                    }
+                },
+                "76": {
+                    "question": {
+                        "question_subjects": {
+                            "466": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_23_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "439": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_41_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 82
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 466,
+                        "answer_boolean": null,
+                        "answer_id": 76
+                    }
+                }
+            }
+        },
+        "5": {
+            "survee_uuid": "dc871e66-7262-4f3e-aeff-b4f656281912",
+            "votes": {
+                "88": {
+                    "question": {
+                        "question_subjects": {
+                            "357": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_34_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "190": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_55_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 121
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 357,
+                        "answer_boolean": null,
+                        "answer_id": 88
+                    }
+                },
+                "89": {
+                    "question": {
+                        "question_subjects": {
+                            "24": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_46_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "542": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_42_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 119
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 542,
+                        "answer_boolean": null,
+                        "answer_id": 89
+                    }
+                },
+                "80": {
+                    "question": {
+                        "question_subjects": {
+                            "264": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_44_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "336": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_09_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 123
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 336,
+                        "answer_boolean": null,
+                        "answer_id": 80
+                    }
+                },
+                "81": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 0,
+                        "question_id": 4
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 81
+                    }
+                },
+                "82": {
+                    "question": {
+                        "question_subjects": {
+                            "311": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_41_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "120": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_00_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 118
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 311,
+                        "answer_boolean": null,
+                        "answer_id": 82
+                    }
+                },
+                "83": {
+                    "question": {
+                        "question_subjects": {
+                            "358": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_12_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "161": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_40_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 116
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 358,
+                        "answer_boolean": null,
+                        "answer_id": 83
+                    }
+                },
+                "84": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 84
+                    }
+                },
+                "85": {
+                    "question": {
+                        "question_subjects": {
+                            "7": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_20_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "518": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_43_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 117
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 7,
+                        "answer_boolean": null,
+                        "answer_id": 85
+                    }
+                },
+                "86": {
+                    "question": {
+                        "question_subjects": {
+                            "422": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_12_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "237": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_08_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 122
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 237,
+                        "answer_boolean": null,
+                        "answer_id": 86
+                    }
+                },
+                "87": {
+                    "question": {
+                        "question_subjects": {
+                            "457": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_59_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "128": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_02_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 120
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 128,
+                        "answer_boolean": null,
+                        "answer_id": 87
+                    }
+                }
+            }
+        },
+        "6": {
+            "survee_uuid": "f5998cc3-b535-4035-b2f4-130f311dfc82",
+            "votes": {
+                "90": {
+                    "question": {
+                        "question_subjects": {
+                            "220": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_04_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "483": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 159
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 483,
+                        "answer_boolean": null,
+                        "answer_id": 90
+                    }
+                },
+                "91": {
+                    "question": {
+                        "question_subjects": {
+                            "12": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_47_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "179": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_15_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 162
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 12,
+                        "answer_boolean": null,
+                        "answer_id": 91
+                    }
+                },
+                "92": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 92
+                    }
+                },
+                "93": {
+                    "question": {
+                        "question_subjects": {
+                            "356": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_06_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "447": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_36_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 156
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 447,
+                        "answer_boolean": null,
+                        "answer_id": 93
+                    }
+                },
+                "94": {
+                    "question": {
+                        "question_subjects": {
+                            "17": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_52_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "171": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_50_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 157
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 17,
+                        "answer_boolean": null,
+                        "answer_id": 94
+                    }
+                },
+                "95": {
+                    "question": {
+                        "question_subjects": {
+                            "410": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_45_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "335": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_53_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 161
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 335,
+                        "answer_boolean": null,
+                        "answer_id": 95
+                    }
+                },
+                "96": {
+                    "question": {
+                        "question_subjects": {
+                            "539": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_19_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "295": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_56_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 158
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 295,
+                        "answer_boolean": null,
+                        "answer_id": 96
+                    }
+                },
+                "97": {
+                    "question": {
+                        "question_subjects": {
+                            "531": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_49_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "81": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_52_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 160
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 531,
+                        "answer_boolean": null,
+                        "answer_id": 97
+                    }
+                },
+                "98": {
+                    "question": {
+                        "question_subjects": {
+                            "474": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_45_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "302": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_48_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 163
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 302,
+                        "answer_boolean": null,
+                        "answer_id": 98
+                    }
+                }
+            }
+        },
+        "7": {
+            "survee_uuid": "6a1b4020-c040-4e28-8aa2-dd7b6e5f2247",
+            "votes": {
+                "99": {
+                    "question": {
+                        "question_subjects": {
+                            "352": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_63_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "511": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_36_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 177
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 352,
+                        "answer_boolean": null,
+                        "answer_id": 99
+                    }
+                },
+                "100": {
+                    "question": {
+                        "question_subjects": {
+                            "338": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_23_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            },
+                            "519": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_20_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 174
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 338,
+                        "answer_boolean": null,
+                        "answer_id": 100
+                    }
+                },
+                "101": {
+                    "question": {
+                        "question_subjects": {
+                            "268": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_47_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "405": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_21_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 178
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 405,
+                        "answer_boolean": null,
+                        "answer_id": 101
+                    }
+                },
+                "102": {
+                    "question": {
+                        "question_subjects": {
+                            "13": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_35_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "75": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_38_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 175
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 75,
+                        "answer_boolean": null,
+                        "answer_id": 102
+                    }
+                },
+                "103": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 103
+                    }
+                },
+                "104": {
+                    "question": {
+                        "question_subjects": {
+                            "396": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_47_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "148": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_33_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 173
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 148,
+                        "answer_boolean": null,
+                        "answer_id": 104
+                    }
+                },
+                "105": {
+                    "question": {
+                        "question_subjects": {
+                            "300": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_10_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "218": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_45_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 176
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 218,
+                        "answer_boolean": null,
+                        "answer_id": 105
+                    }
+                },
+                "106": {
+                    "question": {
+                        "question_subjects": {
+                            "489": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_31_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "116": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_13_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 172
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 116,
+                        "answer_boolean": null,
+                        "answer_id": 106
+                    }
+                },
+                "107": {
+                    "question": {
+                        "question_subjects": {
+                            "15": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_53_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "568": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_00_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 179
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 15,
+                        "answer_boolean": null,
+                        "answer_id": 107
+                    }
+                }
+            }
+        },
+        "8": {
+            "survee_uuid": "755b8b30-0039-42c8-800a-5d496a56ed3d",
+            "votes": {
+                "110": {
+                    "question": {
+                        "question_subjects": {
+                            "468": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_33_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "280": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_46_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 237
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 280,
+                        "answer_boolean": null,
+                        "answer_id": 110
+                    }
+                },
+                "111": {
+                    "question": {
+                        "question_subjects": {
+                            "178": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_28_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "521": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_59_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 239
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 521,
+                        "answer_boolean": null,
+                        "answer_id": 111
+                    }
+                },
+                "112": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 112
+                    }
+                },
+                "113": {
+                    "question": {
+                        "question_subjects": {
+                            "563": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_15_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "369": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_11_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 242
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 369,
+                        "answer_boolean": null,
+                        "answer_id": 113
+                    }
+                },
+                "114": {
+                    "question": {
+                        "question_subjects": {
+                            "201": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_59_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "388": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_25_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 236
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 201,
+                        "answer_boolean": null,
+                        "answer_id": 114
+                    }
+                },
+                "115": {
+                    "question": {
+                        "question_subjects": {
+                            "204": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_47_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "84": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_33_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 241
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 204,
+                        "answer_boolean": null,
+                        "answer_id": 115
+                    }
+                },
+                "116": {
+                    "question": {
+                        "question_subjects": {
+                            "416": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_63_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            },
+                            "163": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 243
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 416,
+                        "answer_boolean": null,
+                        "answer_id": 116
+                    }
+                },
+                "108": {
+                    "question": {
+                        "question_subjects": {
+                            "79": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_53_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "362": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_18_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 238
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 362,
+                        "answer_boolean": null,
+                        "answer_id": 108
+                    }
+                },
+                "109": {
+                    "question": {
+                        "question_subjects": {
+                            "301": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_08_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            },
+                            "51": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_15_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 240
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 301,
+                        "answer_boolean": null,
+                        "answer_id": 109
+                    }
+                }
+            }
+        },
+        "9": {
+            "survee_uuid": "55d30aba-07f4-442f-8961-522384b809e1",
+            "votes": {
+                "121": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 121
+                    }
+                },
+                "122": {
+                    "question": {
+                        "question_subjects": {
+                            "16": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_09_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "184": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_00_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 263
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 184,
+                        "answer_boolean": null,
+                        "answer_id": 122
+                    }
+                },
+                "123": {
+                    "question": {
+                        "question_subjects": {
+                            "245": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_07_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "570": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_39_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 264
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 570,
+                        "answer_boolean": null,
+                        "answer_id": 123
+                    }
+                },
+                "124": {
+                    "question": {
+                        "question_subjects": {
+                            "246": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_24_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "494": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_48_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 262
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 246,
+                        "answer_boolean": null,
+                        "answer_id": 124
+                    }
+                },
+                "125": {
+                    "question": {
+                        "question_subjects": {
+                            "484": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_06_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "307": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_15_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 266
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 484,
+                        "answer_boolean": null,
+                        "answer_id": 125
+                    }
+                },
+                "117": {
+                    "question": {
+                        "question_subjects": {
+                            "105": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_31_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "415": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_22_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 261
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 105,
+                        "answer_boolean": null,
+                        "answer_id": 117
+                    }
+                },
+                "118": {
+                    "question": {
+                        "question_subjects": {
+                            "99": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "323": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_29_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 265
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 99,
+                        "answer_boolean": null,
+                        "answer_id": 118
+                    }
+                },
+                "119": {
+                    "question": {
+                        "question_subjects": {
+                            "50": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_28_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "382": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_55_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 260
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 382,
+                        "answer_boolean": null,
+                        "answer_id": 119
+                    }
+                },
+                "120": {
+                    "question": {
+                        "question_subjects": {
+                            "165": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_34_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "408": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_46_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 267
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 165,
+                        "answer_boolean": null,
+                        "answer_id": 120
+                    }
+                }
+            }
+        },
+        "10": {
+            "survee_uuid": "55d30aba-07f4-442f-8961-522384b809e1",
+            "votes": {
+                "132": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 1,
+                        "question_id": 7
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 4,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 132
+                    }
+                },
+                "133": {
+                    "question": {
+                        "question_subjects": {
+                            "104": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_05_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            },
+                            "272": {
+                                "subject_origin_id": 5,
+                                "subject_name": "output_09_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_notelike_representation"
+                            }
+                        },
+                        "question_order": 2,
+                        "question_id": 276
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 272,
+                        "answer_boolean": null,
+                        "answer_id": 133
+                    }
+                },
+                "134": {
+                    "question": {
+                        "question_subjects": {
+                            "486": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_12_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "86": {
+                                "subject_origin_id": 2,
+                                "subject_name": "output_16_00.mp3",
+                                "subject_origin_name": "origin_relative_midilike_representation"
+                            }
+                        },
+                        "question_order": 6,
+                        "question_id": 278
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 86,
+                        "answer_boolean": null,
+                        "answer_id": 134
+                    }
+                },
+                "135": {
+                    "question": {
+                        "question_subjects": {
+                            "14": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_27_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            },
+                            "327": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_20_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 7,
+                        "question_id": 279
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 14,
+                        "answer_boolean": null,
+                        "answer_id": 135
+                    }
+                },
+                "126": {
+                    "question": {
+                        "question_subjects": {
+                            "150": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_16_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            },
+                            "419": {
+                                "subject_origin_id": 7,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_cof_notelike_representation"
+                            }
+                        },
+                        "question_order": 3,
+                        "question_id": 277
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 150,
+                        "answer_boolean": null,
+                        "answer_id": 126
+                    }
+                },
+                "127": {
+                    "question": {
+                        "question_subjects": {
+                            "572": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_62_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "321": {
+                                "subject_origin_id": 6,
+                                "subject_name": "output_51_00.mp3",
+                                "subject_origin_name": "origin_relative_notelike_representation"
+                            }
+                        },
+                        "question_order": 9,
+                        "question_id": 281
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 572,
+                        "answer_boolean": null,
+                        "answer_id": 127
+                    }
+                },
+                "128": {
+                    "question": {
+                        "question_subjects": {
+                            "504": {
+                                "subject_origin_id": 8,
+                                "subject_name": "output_00_00.mp3",
+                                "subject_origin_name": "origin_large_vocabulary_cof_notelike_representation"
+                            },
+                            "64": {
+                                "subject_origin_id": 1,
+                                "subject_name": "output_02_00.mp3",
+                                "subject_origin_name": "origin_standard_midilike_representation"
+                            }
+                        },
+                        "question_order": 4,
+                        "question_id": 283
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 64,
+                        "answer_boolean": null,
+                        "answer_id": 128
+                    }
+                },
+                "129": {
+                    "question": {
+                        "question_subjects": {
+                            "210": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_23_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            },
+                            "174": {
+                                "subject_origin_id": 3,
+                                "subject_name": "output_48_00.mp3",
+                                "subject_origin_name": "origin_cof_midilike_representation"
+                            }
+                        },
+                        "question_order": 5,
+                        "question_id": 282
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 210,
+                        "answer_boolean": null,
+                        "answer_id": 129
+                    }
+                },
+                "130": {
+                    "question": {
+                        "question_subjects": {
+                            "530": {
+                                "subject_origin_id": 9,
+                                "subject_name": "output_23_00.mp3",
+                                "subject_origin_name": "standard_notelike_remi_representation"
+                            },
+                            "227": {
+                                "subject_origin_id": 4,
+                                "subject_name": "output_57_00.mp3",
+                                "subject_origin_name": "origin_standard_notelike_representation"
+                            }
+                        },
+                        "question_order": 8,
+                        "question_id": 280
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": null,
+                        "answer_subject": 530,
+                        "answer_boolean": null,
+                        "answer_id": 130
+                    }
+                },
+                "131": {
+                    "question": {
+                        "question_subjects": {},
+                        "question_order": 0,
+                        "question_id": 4
+                    },
+                    "answer": {
+                        "answer_text": null,
+                        "answer_range": 0,
+                        "answer_subject": null,
+                        "answer_boolean": null,
+                        "answer_id": 131
+                    }
+                }
+            }
+        }
+    }
+}
